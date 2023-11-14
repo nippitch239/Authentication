@@ -19,7 +19,7 @@ function App() {
           <Link to="/login" type="button" className={style.buttonOne}>
 
               <button className={style.button} type="submit">
-                SignUp
+                Sign In
               </button>
 
           </Link>

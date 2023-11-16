@@ -17,11 +17,9 @@ function App() {
           </p>
           {/* <input type="text" className={style.inputBox} /> */}
           <Link to="/login" type="button" className={style.buttonOne}>
-
-              <button className={style.button} type="submit">
-                Sign In
-              </button>
-
+            <button className={style.button} type="submit">
+              Sign In
+            </button>
           </Link>
 
           <div className={style.and}>
